@@ -16,7 +16,7 @@ pip install gtts
 pip install pydub
 pip install reportlab
 ```
-[link](doc:linking-to-pages#anchor-links)face_detection.py file uses cascade filters to detect the face and there is a threshold value of 5sec set in the function such that, if the user is not detected for more than 5sec it shoots an alert with buzzer sound.
+[face_detection.py](https://github.com/harshith7422/SeeThru-Python-based-webcam-monitor/blob/main/face_detection.py) file uses cascade filters to detect the face and there is a threshold value of 5sec set in the function such that, if the user is not detected for more than 5sec it shoots an alert with buzzer sound.
 
 object_detection.py file uses YOLO libraries to detect the objects that are present in the captured area and prints the objects with their respective positions in the terminal.
 
