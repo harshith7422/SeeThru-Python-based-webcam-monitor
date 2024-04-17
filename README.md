@@ -1,5 +1,6 @@
 <h2> SeeThru: Python-based-webcam-monitor-that-detects-users-and-objects-keeping-you-in-the-loop. </h2>
 Install all the libraries given in the requirements.txt file
+
 ```bash
 pip install -r requirements. txt
 ```
@@ -22,5 +23,6 @@ pip install reportlab
 We integrate the features of both [face_detection.py](face_detection.py) and [object_detection.py](object_detection.py) in [main.py](main.py).
 
 Note:
+
 [1] Replace the path of haarcascade_frontalface_default.xml and buzzer_sound.wav in the code.
 [2] Use "q" to quit capturing the video.
