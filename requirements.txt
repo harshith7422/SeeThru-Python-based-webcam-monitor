@@ -1,0 +1,9 @@
+cv2 
+time
+pygame
+subprocess
+numpy
+os:
+gtts
+pydub
+reportlab
