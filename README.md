@@ -5,6 +5,7 @@ Install all the libraries given in the requirements.txt file
 pip install -r requirements. txt
 ```
 If there is any problem in installing the libraries through the requirements.txt file use the following commands:
+
 ```bash
 pip install cv2 
 pip install time
@@ -25,4 +26,5 @@ We integrate the features of both [face_detection.py](face_detection.py) and [ob
 Note:
 
 [1] Replace the path of haarcascade_frontalface_default.xml and buzzer_sound.wav in the code.
+
 [2] Use "q" to quit capturing the video.
