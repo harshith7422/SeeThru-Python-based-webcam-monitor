@@ -1,9 +1,10 @@
 _**SeeThru:** Python-based-webcam-monitor-that-detects-users-and-objects-keeping-you-in-the-loop._
 
 Install all the libraries given in the requirements.txt file
+```bash
 
 pip install -r requirements. txt
-
+```
 If there is any problem in installing the libraries through the requirements.txt file use the following commands:
 
 pip install cv2 
