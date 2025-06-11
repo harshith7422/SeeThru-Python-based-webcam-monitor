@@ -1,4 +1,4 @@
-<h2> SeeThru: Python-based-webcam-monitor-that-detects-users-and-objects-keeping-you-in-the-loop. </h2>
+<h2> Python based webcam monitorting system with Object detection.</h2>
 Install all the libraries given in the requirements.txt file
 
 ```bash
